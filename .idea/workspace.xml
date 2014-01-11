@@ -6,25 +6,17 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/.netbeans_update_resources" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/gradebook/GradeBook.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/gradebook/GradeBookTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GradeBook.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/gradebook/GradeBook.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nbproject/build-impl.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nbproject/genfiles.properties" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manifest.mf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nbproject/private/private.properties" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nbproject/private/private.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nbproject/project.properties" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nbproject/project.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="GradeBook.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -516,17 +508,21 @@
       <created>1389445415364</created>
       <updated>1389445415364</updated>
       <workItem from="1389445419643" duration="274000" />
-      <workItem from="1389445703507" duration="3210000" />
+      <workItem from="1389445703507" duration="3267000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1389447196859</created>
       <updated>1389447196859</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First Commit:&#10;&#10;Ch3 early work on custom class constructors, access modifiers, and two classes for the continuing &quot;GradeBook&quot; example">
+      <created>1389448920065</created>
+      <updated>1389448920065</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3484000" />
+    <option name="totallyTimeSpent" value="3541000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1152" y="22" width="1408" height="1330" extended-state="0" />
