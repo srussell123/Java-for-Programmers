@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab0d24f8-e4b6-4266-9ac0-a075773f1980" name="Default" comment="First Commit:&#10;&#10;Ch3 early work on custom class constructors, access modifiers, and two classes for the continuing &quot;GradeBook&quot; example">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/.netbeans_automatic_build" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/.netbeans_update_resources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/gradebook/GradeBook.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/gradebook/GradeBookTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GradeBook.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/gradebook/GradeBook.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nbproject/build-impl.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nbproject/genfiles.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manifest.mf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nbproject/private/private.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nbproject/private/private.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nbproject/project.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nbproject/project.xml" />
+    <list default="true" id="ab0d24f8-e4b6-4266-9ac0-a075773f1980" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="GradeBook.iws" />
@@ -82,7 +68,7 @@
     <splitter split-orientation="vertical" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file leaf-file-name="GradeBookTest.java" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="GradeBookTest.java" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/gradebook/GradeBookTest.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state line="25" column="0" selection-start="724" selection-end="724" vertical-scroll-proportion="0.6239601" vertical-offset="0" max-vertical-offset="601">
@@ -95,10 +81,10 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="GradeBook.java" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="GradeBook.java" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/gradebook/GradeBook.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="7" column="0" selection-start="205" selection-end="205" vertical-scroll-proportion="0.07550336" vertical-offset="0" max-vertical-offset="596">
+                <state line="37" column="0" selection-start="888" selection-end="888" vertical-scroll-proportion="0.7298658" vertical-offset="0" max-vertical-offset="596">
                   <folding />
                 </state>
               </provider>
@@ -219,7 +205,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="143" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="145" />
@@ -508,7 +494,7 @@
       <created>1389445415364</created>
       <updated>1389445415364</updated>
       <workItem from="1389445419643" duration="274000" />
-      <workItem from="1389445703507" duration="3267000" />
+      <workItem from="1389445703507" duration="3450000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1389447196859</created>
@@ -518,11 +504,15 @@
       <created>1389448920065</created>
       <updated>1389448920065</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="First Commit:&#10;&#10;Ch3 early work on custom class constructors, access modifiers, and two classes for the continuing &quot;GradeBook&quot; example">
+      <created>1389448982952</created>
+      <updated>1389448982952</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3541000" />
+    <option name="totallyTimeSpent" value="3724000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1152" y="22" width="1408" height="1330" extended-state="0" />
@@ -610,16 +600,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gradebook/GradeBook.java">
+    <entry file="file://$PROJECT_DIR$/src/gradebook/GradeBookTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="205" selection-end="205" vertical-scroll-proportion="0.07550336" vertical-offset="0" max-vertical-offset="596">
+        <state line="25" column="0" selection-start="724" selection-end="724" vertical-scroll-proportion="0.6239601" vertical-offset="0" max-vertical-offset="601">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gradebook/GradeBookTest.java">
+    <entry file="file://$PROJECT_DIR$/src/gradebook/GradeBook.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="724" selection-end="724" vertical-scroll-proportion="0.6239601" vertical-offset="0" max-vertical-offset="601">
+        <state line="37" column="0" selection-start="888" selection-end="888" vertical-scroll-proportion="0.7298658" vertical-offset="0" max-vertical-offset="596">
           <folding />
         </state>
       </provider>
